@@ -1,0 +1,17 @@
+<keymap version="1" name="Sublime Text copy" parent="Sublime Text">
+  <action id="Compile" />
+  <action id="ExpressionTypeInfo">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="GotoAction" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+    <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="shift control button1" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
+  <action id="hg4idea.QPushAction" />
+</keymap>
